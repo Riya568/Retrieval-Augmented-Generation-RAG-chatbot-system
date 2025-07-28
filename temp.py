@@ -13,7 +13,7 @@ import threading
 import os
 
 # Secure API Key Configuration
-GEMINI_API_KEY = "AIzaSyAvTxnxC4RdBiv6qjQTYZOh-SgHfZZUBog"  
+GEMINI_API_KEY = "your-api-key"  
 genai.configure(api_key=GEMINI_API_KEY)
 
 # Configure Logging
